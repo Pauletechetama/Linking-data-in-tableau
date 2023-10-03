@@ -16,4 +16,4 @@ Logged into my Tableau profile, created a viz and uploaded all 4 dataset then pr
 
 # Summary
 I successfully linked 4 dataset together using Tableau and created a visualization of the co2 emission per capita of each country from 2000-2011 with country's population, gdp and energy use and from the visualization of all the years combined, The United states has the largest co2 emission per capita (metric tons) followed by Canada and Russia Federation then you have countries like Congo, Niger, Chad, Sudan with the lowest co2 emssion per capita (metric tons). You can also check for largest and lowest country co2 emission per year by just unchecking the 'all' box and checking the year of choice. From the link below you can view the data visualization.
-# https://public.tableau.com/app/profile/paulet.echetama
+# https://public.tableau.com/views/linkingdataintableau_16963655688730/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
